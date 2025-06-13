@@ -73,8 +73,3 @@ for _ in s:
     length += 1
 print("Length:", length)
 
-Copy
-Edit
-s = "innovation"
-for i in range(1, len(s), 2):
-    print(s[i], end=" ")
